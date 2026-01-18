@@ -1,0 +1,18 @@
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled output
+bin/
+target/
+
+# Env / config
+.env
+db.properties
+
+# OS
+.DS_Store
